@@ -1,0 +1,5 @@
+C:/Users/Khush/OneDrive/Desktop/universal-log-framework/build/CMakeFiles/log_processor.dir
+C:/Users/Khush/OneDrive/Desktop/universal-log-framework/build/CMakeFiles/test_parser.dir
+C:/Users/Khush/OneDrive/Desktop/universal-log-framework/build/CMakeFiles/test_index.dir
+C:/Users/Khush/OneDrive/Desktop/universal-log-framework/build/CMakeFiles/edit_cache.dir
+C:/Users/Khush/OneDrive/Desktop/universal-log-framework/build/CMakeFiles/rebuild_cache.dir

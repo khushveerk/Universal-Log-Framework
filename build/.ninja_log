@@ -1,0 +1,8 @@
+# ninja log v6
+30	737	8151610604377776	CMakeFiles/test_index.dir/tests/test_index.cpp.obj	931de0b5006d551a
+13	1089	8151610604218496	CMakeFiles/log_processor.dir/src/inverted_index.cpp.obj	554257eb1517b47f
+22	1491	8151610604238961	CMakeFiles/test_parser.dir/tests/test_parser.cpp.obj	43cf666263113b28
+3	5381	8151610604036330	CMakeFiles/log_processor.dir/src/log_processor.cpp.obj	ead9dd83570eedaa
+5383	5612	8151610657869030	liblog_processor.a	aeafa94314ef7284
+5622	5796	8151610660275423	test_index.exe	ffb40eb059440434
+5612	5881	8151610660196734	test_parser.exe	28b60c2a47731fd
